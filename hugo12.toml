@@ -48,26 +48,27 @@ theme = "hugo-blog-awesome"
 		ordered = false # generates <ul> instead of <ol>
 
 ############################## English language ################################
-[Languages.en-gb]
-  languageName = "English"
-  languageCode = "en-gb"
-  contentDir = "content/posts"
-  weight = 1
+##[Languages.en-gb]
+ ## languageName = "English"
+ ## languageCode = "en-gb"
+ ##
+## contentDir = "content/en"
+ ## weight = 1
 
-  [Languages.en-gb.menu]
-  [[Languages.en-gb.menu.main]]
+ ## [Languages.en-gb.menu]
+ ## [[Languages.en-gb.menu.main]]
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
     name = 'Home'
     url = '/'
-    weight = 10
-  [[Languages.en-gb.menu.main]]
+     weight = 10
+  ##[[Languages.en-gb.menu.main]]
     pageRef="posts"
     name = 'Posts'
     url = '/posts/'
     weight = 20
-  [[Languages.en-gb.menu.main]]
+ ## [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
@@ -113,8 +114,6 @@ theme = "hugo-blog-awesome"
   display = "standalone"
 
 
-
-###################################################################
 
 # Allow to override `browserconfig.xml` params (configuration for windows embedded browsers)
 [params.browserconfig]

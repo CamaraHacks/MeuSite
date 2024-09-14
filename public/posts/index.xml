@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts on C Hacks Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on C Hacks Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 14 Sep 2024 01:02:35 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First_post</title>
+      <link>http://localhost:1313/posts/my-first_post/</link>
+      <pubDate>Sat, 14 Sep 2024 01:02:35 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first_post/</guid>
+      
+      <description>hello world!</description>
+      
+    </item>
+    
   </channel>
 </rss>
