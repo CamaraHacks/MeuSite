@@ -8,16 +8,14 @@
     <language>en-gb</language>
     <lastBuildDate>Mon, 18 Dec 2023 04:10:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arquivos Poliglotas</title>
+      <title>Arquivos possuem RG?</title>
       <link>http://localhost:1313/posts/arquivos_poliglotas/</link>
       <pubDate>Mon, 18 Dec 2023 04:10:42 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/arquivos_poliglotas/</guid>
       
-      <description>Meu Projeto Incrível Bem-vindo ao meu projeto! Aqui estão algumas informações importantes:
-Introdução Este projeto foi criado com o objetivo de [descreva brevemente o propósito do projeto].
-Índice Introdução Instalação Como Usar Contribuição Licença Instalação Para executar este projeto, siga estas etapas:
-Clone o repositório: git clone https://github.com/seu-usuario/seu-projeto.git Instale as dependências: npm install Execute o projeto: npm start Como Usar [Explique como usar o projeto, com exemplos, comandos ou telas.]</description>
+      <description>Estenografia em arquivos digitais, uma introdução Uma técnica perspicaz para esconder malwares
+Índice Como um determinado formato de arquivo é reconhecido Ah, então arquivos possuem RG? (Magic Bytes) Abrindo um pdf com ISO embutida Bibliográfia e sugestões de leitura Licença SAY MY NAME Certamente você já se perguntou o que faz de um DOCX um DOCX? É seu conteúdo? Certamente, mas não só isso. Um arquivo é um conjunto de informações organizadas de maneira específica para cada tipo de formato.</description>
       
     </item>
     
